@@ -1,11 +1,3 @@
-//
-//  vsfsd.cpp
-//  vsfsd
-//
-//  Created by Zhao Yue on 12/19/15.
-//  Copyright (c) 2015 Szc. All rights reserved.
-//
-
 #include "vsfsd.h"
 #include <ctime>
 #include <cstring>
