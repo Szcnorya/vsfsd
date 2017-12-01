@@ -1,11 +1,3 @@
-//
-//  vsfsd.h
-//  vsfsd
-//
-//  Created by Zhao Yue on 12/19/15.
-//  Copyright (c) 2015 Szc. All rights reserved.
-//
-
 #ifndef __vsfsd__vsfsd__
 #define __vsfsd__vsfsd__
 
